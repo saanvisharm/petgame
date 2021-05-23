@@ -1,1 +1,1 @@
-# petgame
+# VirtualPet2
